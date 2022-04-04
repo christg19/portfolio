@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "choreographer-js": "^1.1.0",
+    "save": "^2.4.0"
+  }
+}
